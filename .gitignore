@@ -1,0 +1,6 @@
+**/node_modules
+**.env
+**/client
+**package-lock.json
+jwt-auth.zip
+test.js
